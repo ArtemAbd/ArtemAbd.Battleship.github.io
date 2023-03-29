@@ -1,1 +1,1 @@
-# ArtemAbd.Battleship.github.io
+# Artemabd.Battleship.github.io
